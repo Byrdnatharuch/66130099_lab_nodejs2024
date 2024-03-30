@@ -4,7 +4,7 @@ const blogs = [
   {
     id: 1,
     title: "นาณฐรัช เกตอุบล (Mr.Natharuch Ketubol) ชาวไทย",
-    description: "ระหัส 66130099  (Im Byrd) ",
+    description: "ระหัส 66130099  (My project deploy) ",
     cover:
       "https://cms.dmpcdn.com/musicarticle/2020/10/08/9376de90-0940-11eb-b35d-299eb29d6529_original.jpg",
   },

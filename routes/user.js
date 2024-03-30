@@ -10,7 +10,7 @@ const users = [
   },
   {
     id: 2,
-    fullname: "Jame Gun",
+    fullname: "Nicha Pemika",
     avatar:
       "https://www.flashfly.net/wp/wp-content/uploads/2022/05/FTX1B5hWIAA6GRr-2-800x600.jpeg",
   },

@@ -4,7 +4,7 @@ const router = express.Router();
 const users = [
   {
     id: 1,
-    fullname: "Harry Potter",
+    fullname: "Natharuch Ketubol",
     avatar:
       "https://www.flashfly.net/wp/wp-content/uploads/2022/05/FTX1B5hWIAA6GRr-2-800x600.jpeg",
   },

@@ -11,7 +11,7 @@ const options = {
   definition: {
     openapi: "3.0.0",
     info: {
-      title: "นาย ณฐรัช เกตอุบล , Mr.Natharuch Ketubol",
+      title: "นาย ณฐรัช เกตอุบล  Mr.Natharuch Ketubol",
       version: "1.0.0",
       description: "ระหัส 66130099",
     },

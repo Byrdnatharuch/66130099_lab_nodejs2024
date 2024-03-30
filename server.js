@@ -13,7 +13,7 @@ const options = {
     info: {
       title: "นาย ณฐรัช เกตอุบล  Mr.Natharuch Ketubol",
       version: "1.0.0",
-      description: "ระหัส 66130099",
+      description: "ระหัส 66130099 ID 66130099",
     },
   },
   apis: ["./routes/*.js"],

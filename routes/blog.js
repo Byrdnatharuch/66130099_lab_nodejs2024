@@ -3,8 +3,8 @@ const router = express.Router();
 const blogs = [
   {
     id: 1,
-    title: "นายอน (Nayeon) ชาวเกาหลี",
-    description: "อิม นายอน  (Im Nayeon) ",
+    title: "นาณฐรัช เกตอุบล (Mr.Natharuch Ketubol) ชาวไทย",
+    description: "ระหัส 66130099  (Im Byrd) ",
     cover:
       "https://cms.dmpcdn.com/musicarticle/2020/10/08/9376de90-0940-11eb-b35d-299eb29d6529_original.jpg",
   },
@@ -63,6 +63,13 @@ const blogs = [
     description: "โจว จื่อวี่ (Chou Tzu Yu)",
     cover:
       "https://cms.dmpcdn.com/musicarticle/2020/10/08/93f00630-0940-11eb-a3b0-f9d575a2517d_original.jpg",
+  },
+  {
+    id: 10,
+    title: "อ.ลิซา (Lisa) ชาวไทย",
+    description: " ซาซ่า(Cha cha)",
+    cover:
+      "https://www.techasad.com/wp-content/uploads/Blackpink-Lisa-4.jpeg",
   },
 ];
 
